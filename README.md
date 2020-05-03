@@ -5,5 +5,6 @@
 Projeto de cadastro de usuário simples, desenvolvido no curso de web moderno da Cod3r, utilizando React.
 
 ## Demais tecnologias usadas:
+- Javascript
 - Bootstrap
 - JSON Serve.
